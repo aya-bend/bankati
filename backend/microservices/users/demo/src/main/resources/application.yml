@@ -1,0 +1,7 @@
+auth:
+  service:
+    url: http://localhost:8085/api/auth
+
+wallet:
+  service:
+    url: http://localhost:8086/api/clients

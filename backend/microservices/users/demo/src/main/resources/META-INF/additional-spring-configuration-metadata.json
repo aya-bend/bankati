@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "auth.service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.service.url'"
+  },
+  {
+    "name": "wallet.service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'wallet.service.url'"
+  }
+]}
