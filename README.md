@@ -85,7 +85,7 @@ This project follows a microservices architecture where each service is responsi
 
 ## Video Demonstration
 
-A detailed walkthrough of the application is available in this video: **[Watch the Demo](demo.mp4)**  
+A detailed walkthrough of the application is available in this video: **[Watch the Demo](demo.mp4)** Alternatively, you can access the video directly on Google Drive using the following link: https://drive.google.com/file/d/1Y-cXaYIq41J8U6iMKgckeHOwa5ukDZdZ/view?usp=sharing
 The video highlights:
 - Microservices functionality.
 - Backend-frontend integration.
